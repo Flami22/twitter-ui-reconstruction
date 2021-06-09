@@ -18,9 +18,9 @@ UI Clone - Twitter Responsive
 
 ## Participants
 
-[<img src="https://avatars3.githubusercontent.com/u/10366880?s=460&v=4" width="75px;"/>](https://github.com/guilhermerodz)
+[<img src="https://github.com/Flami22"/>](https://github.com/Flami22)
 
-[Guilherme Rodz](https://github.com/guilhermerodz)
+[João henrique](https://github.com/Flami22)
 
 ## Techs
 
