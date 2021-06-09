@@ -18,7 +18,7 @@ UI Clone - Twitter Responsive
 
 ## Participants
 
-[<img src="https://github.com/Flami22"/>](https://github.com/Flami22)
+[<img src="https://avatars.githubusercontent.com/u/63281362?v=4"/>](https://github.com/Flami22)
 
 [João henrique](https://github.com/Flami22)
 
